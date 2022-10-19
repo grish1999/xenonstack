@@ -4,10 +4,11 @@ The customer can order cake items through online. Before ordering cake the custo
 Frontend - HTML, CSS, JS
 Backend - Javascript
 Database-MySQL
+
 xenon1=Home Page
 xenon2=about page
 xenon3=login page
 xenon4=contact page
 xenon5=login page
 xenon6=logout page
-xenon7= database image
+xenon7= database page
